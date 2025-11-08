@@ -50,6 +50,6 @@ This project aims to design a system that automatically detects promotions and o
 - Selenium  
 - Beautiful Soup  
 - Scikit-learn / TensorFlow / PyTorch (for ML models)  
-- Tesseract OCR (optional for image text extraction)
+
 
 
